@@ -1,0 +1,5 @@
+SoT v2.2.0.2
+-----------------------------------
+Base = 0x7FF763EA0000
+GObjects Address = 0x7FF76A8F5D08
+GNames Address = 0x7FF76A8F1A90
